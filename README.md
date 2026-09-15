@@ -22,12 +22,12 @@ Construyo APIs y aplicaciones con **Node.js, NestJS y TypeScript**, con base en 
 <!--
 Reemplazá esto por 2-3 repos reales (pineados) cuando los subas.
 GitHub arma la tarjeta automáticamente si usás pin_owner=kuchotorres77&repo=NOMBRE
--->
+
 
 **Proyectos destacados**
 
 📌 *(pineá acá 2-3 repos cuando estén listos — ver plan de portfolio)*
 
 ---
-
+-->
 <sub>Este README se actualiza a medida que sumo proyectos públicos.</sub>
